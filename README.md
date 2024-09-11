@@ -1,2 +1,2 @@
-# nadirshrestha.github.io
+# avocado-san.github.io
 This is for practicing how to make a Github website.
